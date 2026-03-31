@@ -1,4 +1,4 @@
-#nicee
+
 
 import random
 import sys
